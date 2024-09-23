@@ -1,1 +1,1 @@
-Hand Gesture Recognition Using CNN Model
+Hand_Gesture_Recognition_Using_CNN_Model
